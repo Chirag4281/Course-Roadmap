@@ -88,7 +88,7 @@ lib/
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/course-roadmap-app.git
+[git clone https://github.com/Chirag4281/course-roadmap-app](https://github.com/Chirag4281/Course-Roadmap).git
 ```
 
 2. Navigate to the project directory:

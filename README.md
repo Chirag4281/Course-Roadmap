@@ -181,15 +181,6 @@ Here are some preview screens of the **Course Roadmap App**:
 
 ---
 
-### 💼 Career Opportunities Screen
-
-* Job roles after course completion
-* Salary insights and growth paths
-
-![Career Opportunities](assets/screenshots/career_opportunities.png)
-
----
-
 ### 📊 Course Overview & Insights
 
 * Future scope of the course
@@ -198,18 +189,6 @@ Here are some preview screens of the **Course Roadmap App**:
 ![Course Insights](assets/screenshots/course_insights.png)
 
 ---
-
-
-## ✨ Tip
-
-For a more professional GitHub README:
-
-* Use high-resolution images
-* Maintain consistent device frames
-* You can also use tools like **Flutter Screenshot packages** or emulators
-
----
-
 
 ## 💡 Conclusion
 

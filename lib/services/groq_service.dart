@@ -3,7 +3,7 @@ import 'package:http/http.dart' as http;
 
 class GroqService {
   static const String _baseUrl = 'https://api.groq.com/openai/v1';
-  final String apiKey = "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";
+  final String apiKey = "Your API Paste Here";
 
   GroqService(String apiKey);
 

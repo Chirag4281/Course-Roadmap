@@ -1,6 +1,6 @@
 # 📚 Course Roadmap App (Flutter Based)
 
-A smart and interactive **Course Recommendation & Career Guidance Application** built using **Flutter**. This app helps users discover the most suitable courses based on their qualifications and provides a complete roadmap including fees, learning resources, and career opportunities.
+A smart and interactive **Course Recommendation & Career Guidance Application** built using **Flutter**. This app helps users discover the most suitable courses based on their qualifications and provides a complete roadmap including fees, learning resources, and career opportunities. 
 
 ---
 
